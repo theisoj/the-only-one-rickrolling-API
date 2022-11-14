@@ -5,4 +5,4 @@ So basically this is the another example for rickrolling people.
 MIT
 
 # **INSTRUCTIONS**
-(*They are in the YouTube video description btw, don't read it here*)
+(*They are in the [YouTube video](https://www.youtube.com/watch?v=lRsiqUoqblc) description btw, don't read it here!*)

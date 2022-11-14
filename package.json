@@ -1,7 +1,7 @@
 {
   "name": "rickrolling-api",
   "version": "1.0.0",
-  "description": "API for getting data from Rickrolls.",
+  "description": "API for getting data from Rickrolls database.",
   "main": "server.js",
   "scripts": {
     "devStart": "nodemon server.js"
